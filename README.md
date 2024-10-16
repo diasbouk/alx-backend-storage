@@ -9,7 +9,7 @@
 
 ### Resources
 
-[Advanced SQL] (https://intranet.alxswe.com/concepts/555)\
+[Advanced SQL](https://intranet.alxswe.com/concepts/555)\
 [MySQL cheatsheet](https://intranet.alxswe.com/rltoken/8w9di_hk19DIMSBEV3EayQ)\
 
 ### Requirements
